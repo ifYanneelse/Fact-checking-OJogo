@@ -33,10 +33,12 @@ Estes aparecem em cena por silhuetas do corpo humano que variam a cada pessoa, a
 ### Outros Layouts
 
 <p width="100%">
+<img width="23%" src="https://github.com/ifYanneelse/Fact-checking-OJogo/blob/675a03f1fd5d107abd205e5e5ea74672822ae309/Interface%20visual%20das%20fases%20do%20jogo/7%20pautas%202/7%20pauta%20previdencia/7%20pauta%20previdencia%202.png"> 
 <img width="23%" src="https://github.com/ifYanneelse/Fact-checking-OJogo/blob/abece99488e1c146dc0ded95581118d679712049/Interface%20visual%20das%20fases%20do%20jogo/10%20menu%20opcoes%20de%20checagem/10%206%20OPCOES%20checagem.png">
 <img width="23%" src="https://github.com/ifYanneelse/Fact-checking-OJogo/blob/abece99488e1c146dc0ded95581118d679712049/Interface%20visual%20das%20fases%20do%20jogo/11%20opcoes%20de%20checagem/11%20opcoes%20de%20checagem%20voto%20nulo/14%20congresso%20voto%20nulo.png">
-<img width="23%" src="https://github.com/ifYanneelse/Fact-checking-OJogo/blob/abece99488e1c146dc0ded95581118d679712049/Interface%20visual%20das%20fases%20do%20jogo/20%20promovido/20%20promovido%20voto%20%20nulo/20%20promovido%20VOTO%20NULO.png">
-    </p>
+<img width="23%" src="https://github.com/ifYanneelse/Fact-checking-OJogo/blob/abece99488e1c146dc0ded95581118d679712049/Interface%20visual%20das%20fases%20do%20jogo/20%20promovido/20%20promovido%20voto%20%20nulo/20%20promovido%20VOTO%20NULO.png"> 
+   
+</p>
 
 
 ### Técnicas e ferramentas utilizadas
