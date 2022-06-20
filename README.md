@@ -30,7 +30,7 @@ Além do jogador protagonista, o/a estagiário/a de jornalismo, são incluídos 
 Estes aparecem em cena por silhuetas do corpo humano que variam a cada pessoa, assim não foi necessário destacar características identitárias na concepção do projeto, apenas são detectados por fazerem parte de um ambiente político: assessores, bibliotecário/a, deputada/o, senador/a, cientista política/o e professor/a.
 
 
-### Outros Layouts
+### Outros Screens
 
 <p width="100%">
 <img width="23%" src="https://github.com/ifYanneelse/Fact-checking-OJogo/blob/675a03f1fd5d107abd205e5e5ea74672822ae309/Interface%20visual%20das%20fases%20do%20jogo/7%20pautas%202/7%20pauta%20previdencia/7%20pauta%20previdencia%202.png"> 
