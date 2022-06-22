@@ -59,6 +59,6 @@ Estes aparecem em cena por silhuetas do corpo humano que variam a cada pessoa, a
 
 Site: https://factcheckingojogo.wordpress.com/
 
-Florianópolis/SC, 2º semestre de 2018.
+2º semestre de 2018.
 
 Universidade Federal de Santa Catarina
